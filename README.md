@@ -1,11 +1,22 @@
-# About Me
-- 👋 Hi, I’m Amirhosseinf79 as known as ΡΙΧΞL
-- 👀 I’m interested in Programming specially python
-- 🌱 I’m currently learning Python Django
-- 💞️ I’m looking to collaborate on Google
-- 📫 You can reach me by [This Email](mailto:amirhosseinfr79@gmail.com)
+# 👋 About Me
 
-<!---
-amirhosseinf79/amirhosseinf79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Amirhossein – a passionate Programmer & Software Engineer who loves building scalable, clean, and efficient software.
+
+💡 I’m deeply interested in backend development, distributed systems, and cloud-native architectures, and I enjoy solving complex problems with simple, elegant solutions.
+
+🔨 My main tools are:
+
+Go (Golang) for high-performance backend systems
+
+Next.js for modern web applications
+
+React for building interactive UIs
+
+Docker & Kubernetes for containerization and deployment
+
+PostgreSQL / Redis for data storage and caching
+
+
+🚀 My philosophy: Write clean code, design for scalability, and always keep learning.
+
+📫 Feel free to connect with me or check out my repositories — I love collaborating and learning from the community.
