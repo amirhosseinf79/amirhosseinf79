@@ -12,7 +12,7 @@ Next.js for modern web applications
 
 React for building interactive UIs
 
-Docker & Kubernetes for containerization and deployment
+Docker for containerization and deployment
 
 PostgreSQL / Redis for data storage and caching
 
