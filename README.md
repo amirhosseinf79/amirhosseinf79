@@ -6,15 +6,11 @@ Hi, I’m Amirhossein – a passionate Programmer & Software Engineer who loves 
 
 ## 🔨 My main tools are:
 
-Go (Golang) for high-performance backend systems
-
-Next.js for modern web applications
-
-React for building interactive UIs
-
-Docker for containerization and deployment
-
-PostgreSQL / Redis for data storage and caching
+- Go (Golang) for high-performance backend systems
+- Next.js for modern web applications
+- React for building interactive UIs
+- Docker for containerization and deployment
+- PostgreSQL / Redis for data storage and caching
 
 
 🚀 My philosophy: Write clean code, design for scalability, and always keep learning.
